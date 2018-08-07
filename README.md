@@ -13,3 +13,12 @@ To pull repo into docker - docker pull vikaskshirsagar/ords-514:ords514
 
 [Docker Image - Oracle Apex 5.0.4](https://hub.docker.com/r/vikaskshirsagar/ords-504/ "Oracle Apex-5.0.4 Docker Image")
 To pull repo into docker - docker pull vikaskshirsagar/ords-504:ords540
+
+### References
+
+[Oracle-Docker-Setup](https://github.com/martindsouza/docker-oracle-setup "Oracle-Docker-Setup guide")
+
+[ORDS-Docker-Setup](https://github.com/martindsouza/docker-ords "ORDS-Docker-Setup guide")
+
+[Step to remove Apex from CDB](https://blogs.oracle.com/upgrade/why-you-should-remove-apex-from-the-cdbroot "Remove Apex from CDB")
+
